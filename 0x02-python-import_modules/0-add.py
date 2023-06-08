@@ -1,8 +1,9 @@
 #!/usr/bin/python3
+if __name__ = "__main__":
 
-"""Prints the sum of a and b"""
-from add_0 import add
+    """Print the sum of a and b"""
+    from add_0 import add
 
-a = 1
-b = 2
-print(f"{a:d} + {b:d} = ", add(a, b))
+    a = 1
+    b = 2
+    print(f"{a:d} + {b:d} = ", add(a, b))
