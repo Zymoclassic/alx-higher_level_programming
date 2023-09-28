@@ -8,7 +8,6 @@ how to utilize cookies.
 Task six was an algorithm challenge separate from the overall project theme
 completed in Python.
 
-
 ## Tasks :page_with_curl:
 
 NOTE: The `curl` behavior in all Bash scripts were written to interact with a
